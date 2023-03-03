@@ -1,6 +1,8 @@
+package baithuchanh2402;
+
 import java.util.Scanner;
 
-public class Slide35 {
+public class slide35 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

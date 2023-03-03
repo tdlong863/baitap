@@ -1,6 +1,8 @@
+package baithuchanh2402;
+
 import java.util.Scanner;
 
-public class Slide34 {
+public class slide34 {
    public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
       System.out.print("Nhap a : ");

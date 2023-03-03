@@ -1,10 +1,10 @@
 package baithuchanh2402;
-
+import java.util.Scanner;
 public class slide30 {
 
 	public static void main(String[] args) {
 		  int n, remainder, sum = 0;
-	        Scanner sc = new Scanner(System.in);
+	        Scanner sc = new scanner(System.in);
 	        System.out.println("Nhap n:");
 	        n = sc.nextInt();
 
