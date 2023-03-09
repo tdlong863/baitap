@@ -14,7 +14,7 @@ public class slide30 {
 	            sum += remainder;
 	        }
 	        System.out.println("Tong cac chu so la: " + sum);
-		// TODO Auto-generated method stub
+	
 
 	}
 
