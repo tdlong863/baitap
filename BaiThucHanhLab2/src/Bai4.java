@@ -4,7 +4,7 @@ public class Bai4 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("vui long nhap vao so thang");
+		System.out.println("mời bạn nhập số tháng");
 		int thang = scan.nextInt();
 		switch(thang) {
 		case 1: System.out.println("thang 1");break;
